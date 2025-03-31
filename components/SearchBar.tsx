@@ -1,5 +1,5 @@
 import { icons } from "@/constants/icons";
-import { Text, View, StyleSheet, Image, TextInput } from "react-native";
+import { View, StyleSheet, Image, TextInput } from "react-native";
 
 interface Props {
   placeHolder: string;
